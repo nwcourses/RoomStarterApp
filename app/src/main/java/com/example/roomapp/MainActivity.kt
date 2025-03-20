@@ -58,7 +58,7 @@ class MainActivity : ComponentActivity() {
 
                     Row {
                         Button(onClick = {
-
+                            // TODO add the song to the database.
                         }) {
                             Text("Add")
                         }
